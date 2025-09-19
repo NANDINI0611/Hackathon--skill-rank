@@ -1,2 +1,2 @@
-# Hackathon--skill-rank
+# Hackathon--SkillRank
 Submission for my skill rank hackathon 
